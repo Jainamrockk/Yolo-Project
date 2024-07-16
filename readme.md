@@ -36,9 +36,6 @@ Download the YOLOv8 weights from the [Ultralytics repository](https://github.com
 
 The system visualizes the detection and counting process by overlaying bounding boxes around detected vehicles, assigning unique IDs for tracking, and displaying the count of vehicles that have crossed the defined line in real-time.
 
-## License
-
-This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
 ## Acknowledgments
 
