@@ -44,5 +44,3 @@ The system visualizes the detection and counting process by overlaying bounding 
 - **cvzone:** For simplifying common OpenCV tasks.
 
 ---
-
-Feel free to adjust any sections as needed!
